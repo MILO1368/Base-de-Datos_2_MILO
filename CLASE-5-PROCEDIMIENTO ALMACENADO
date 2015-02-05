@@ -22,6 +22,8 @@ END;
 
 /*ahora si, a insertar en la tabla "dance" */
 
+
+/*CODIGO ADICIONADO EN CLASE DE BASE DE DATOS*/
 SET SERVEROUTPUT ON;
 declare
 VALOR integer;
